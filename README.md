@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:E4B9FD,100:E3F988&height=200&section=header&text=Jin%20Jordan&desc=@xxxjinjordan&fontSize=60&animation=fadeIn&fontColor=BCBCBC&fontAlign=80&fontAlignY=35&descSize=15&descAlign=90.5&descAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:E4B9FD,100:E3F988&height=200&section=header&text=Jin%20Jordan&desc=@xxxjinjordan&fontSize=60&animation=fadeIn&fontColor=fae8ef&fontAlign=80&fontAlignY=35&descSize=15&descAlign=90.5&descAlignY=50)
 
 <h2> &#128187; Tech Stack </h2>
 <p>
