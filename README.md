@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:E4B9FD,100:E3F988&height=200&section=header&text=Jin%20Jordan&desc=@xxxjinjordan&fontSize=60&animation=fadeIn&fontColor=fae8ef&fontAlign=80&fontAlignY=35&descSize=15&descAlign=90.5&descAlignY=50)
 
-## 🧑‍💻&nbsp;한 걸음씩 천천히, JDEV 입니다 👍
+## 💻&nbsp;한 걸음씩 천천히, JDEV 입니다 👍
 - 🌠 Currently learning from [SSAFY](https://ssafy.com) `럭키 7기~!`
 
 ## 👨‍🔧&nbsp;Tech Stack
